@@ -74,6 +74,14 @@ Cybersecurity analyst with hands-on experience across Threat Hunting, Cyber Thre
 ### 📈 Contribution Graph
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/captainx-dcode/captainx-dcode/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/captainx-dcode/captainx-dcode/output/github-snake-pink.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/captainx-dcode/captainx-dcode/output/github-snake-pink.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=captainx-dcode&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
