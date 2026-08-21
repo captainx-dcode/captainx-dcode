@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/captainx-dcode">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Eugen%20Nyongesa%20%7C%20CaptainX" alt="Eugen Walubengo Nyongesa" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Eugen%20Walubengo%20Nyongesa" alt="Eugen Walubengo Nyongesa" />
   </a>
 </p>
 
@@ -155,7 +155,7 @@ This profile documents my progression through practical cybersecurity work.
 ### Quote
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&duration=4000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=820&height=130&lines=%22I+don't+break+systems.+I+just+ask+them+questions+they+weren't+prepared+to+answer.%22+%E2%80%94+Eugen+Nyongesa;%22If+the+alert+is+suspicious,+investigate+it.+If+the+system+is+vulnerable,+test+it.+If+it's+patched,+find+another+way.%22;%22I+came+for+the+code.+Stayed+for+the+vulnerabilities.%22;%22Threat+hunting:+because+sometimes+'nothing+happened'+is+the+most+suspicious+answer.%22;%22Pentesting+is+just+QA,+but+with+better+permissions.%22;%22My+favorite+kind+of+bug+is+the+one+that+gives+me+shell+access.%22;%22I+trust+logs+more+than+I+trust+my+memory.%22;%22404:+Vulnerability+not+found.+Give+me+five+minutes.%22;%22Some+people+debug+code.+I+debug+attackers.%22;%22The+system+said+it+was+secure.+Naturally,+I+had+questions.%22" alt="Quote" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&duration=4500&color=3FB950&center=true&vCenter=true&repeat=true&random=true&width=1050&height=50&lines=%22I+don't+break+systems.+I+just+ask+them+questions+they+weren't+prepared+to+answer.%22+%E2%80%94+Eugen+Nyongesa;%22If+the+alert+is+suspicious,+investigate+it.+If+the+system+is+vulnerable,+test+it.+If+it's+patched,+find+another+way.%22;%22I+came+for+the+code.+Stayed+for+the+vulnerabilities.%22;%22Threat+hunting:+because+sometimes+'nothing+happened'+is+the+most+suspicious+answer.%22;%22Pentesting+is+just+QA,+but+with+better+permissions.%22;%22My+favorite+kind+of+bug+is+the+one+that+gives+me+shell+access.%22;%22I+trust+logs+more+than+I+trust+my+memory.%22;%22404:+Vulnerability+not+found.+Give+me+five+minutes.%22;%22Some+people+debug+code.+I+debug+attackers.%22;%22The+system+said+it+was+secure.+Naturally,+I+had+questions.%22" alt="Quote" /></a>
 </p>
 
 <p align="center"><sub>Quotes cycle in random order. To change or add one, edit the <code>lines</code> value in the URL above — <a href="https://github.com/DenverCoder1/readme-typing-svg">tool docs</a>.</sub></p>
