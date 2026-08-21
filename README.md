@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=760&height=44&lines=Junior%20SOC%20Analyst%20%7C%20Threat%20Hunter%20%7C%20Penetration%20Tester;Defend%20%7C%20Investigate%20%7C%20Test%20%7C%20Learn" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=760&height=44&lines=Cybersecurity%20Analyst" alt="Cybersecurity Analyst" />
 </p>
 
 ---
