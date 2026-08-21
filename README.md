@@ -10,18 +10,18 @@
 
 ---
 
-### 🎯 Objective
+### Objective
 
 Build practical expertise in SOC Operations, Threat Hunting, and Penetration Testing/Red Teaming, strengthening my investigative, defensive, and offensive security skills toward becoming a senior cybersecurity professional specializing in Digital Forensics, Threat Hunting, and Penetration Testing.
 
-### 👋 Bio
+### Bio
 
 Name: Eugen Walubengo Nyongesa
 Degree: Bachelor of Science in Software Engineering
 Training: Cybersecurity
 Current Focus: SOC Operations · Threat Hunting · Penetration Testing / Red Teaming
 
-🔎 Security Skills
+Security Skills
 
 SOC & Threat Hunting
 
@@ -47,7 +47,7 @@ Security Foundations
 - Endpoint & network analysis
 - Security investigation workflows
 
-### 🛠️ Security Toolkit
+### Security Toolkit
 
 **🖥️ Operating Systems & Environments**
 
@@ -60,25 +60,21 @@ Security Foundations
 
 ### 🛠️ Security Tools
 
-**🔵 SOC Operations & Security Monitoring**
-
-`Wazuh` · `Wireshark` · `VirusTotal` · `MITRE ATT&CK`
-
-**🟢 Threat Hunting & Detection**
+### 🔵 SOC Operations & Threat Hunting
 
 `Wazuh` · `Wireshark` · `VirusTotal` · `MITRE ATT&CK`
 
 **🔴 Web & Network Penetration Testing**
 
-`Burp Suite` · `OWASP ZAP` · `Nmap`
+`Burp Suite` · `OWASP ZAP` · `Nmap`  · `Netcat`
 
 **🟣 Active Directory Security**
 
 `BloodHound` · `PowerView` · `Kerberos`
 
-**🟠 Digital Forensics**
+### 🟠 OT/ICS Security
 
-`Autopsy` · `Windows Event Logs` · `Linux Forensics`
+`Modbus TCP` · `DNP3` · `S7comm` · `Wireshark` · `Nmap` · `PLC/SCADA Security`
 
 **🖥️ Operating Systems**
 
