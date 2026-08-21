@@ -16,15 +16,14 @@ Build practical expertise in SOC Operations, Threat Hunting, and Penetration Tes
 
 ### Bio
 
-Name: Eugen Walubengo Nyongesa
-Degree: Bachelor of Science in Software Engineering
-Training: Cybersecurity
-Current Focus: SOC Operations · Threat Hunting · Penetration Testing / Red Teaming
+**Name:** Eugen Walubengo Nyongesa  
+**Degree:** Bachelor of Science in Software Engineering  
+**Training:** Cybersecurity  
+**Current Focus:** SOC Operations · Threat Hunting · Penetration Testing / Red Teaming
 
-Security Skills
+### Security Skills
 
-SOC & Threat Hunting
-
+**SOC & Threat Hunting**
 - Security monitoring & log analysis
 - Alert triage & incident investigation
 - Network traffic analysis
@@ -32,24 +31,26 @@ SOC & Threat Hunting
 - MITRE ATT&CK-based threat hunting
 - Adversary behavior analysis
 
-Penetration Testing
-
+**Penetration Testing**
 - Reconnaissance & enumeration
 - Web application security
 - Vulnerability assessment
 - Exploitation & validation
 - Security reporting & remediation
 
-Security Foundations
-
-- Active Directory security 
+**Security Foundations**
+- Active Directory security
 - OT/ICS security (PLC & SCADA)
 - Endpoint & network analysis
 - Security investigation workflows
 
+---
+
 ### Security Toolkit
 
-**🖥️ Operating Systems & Environments**
+Tools and technologies used across SOC operations, penetration testing, and OT/ICS security work.
+
+**Operating Systems & Environments**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -58,34 +59,44 @@ Security Foundations
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-### 🛠️ Security Tools
+**SOC Operations & Threat Hunting**
 
-### 🔵 SOC Operations & Threat Hunting
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-1F6FEB?style=for-the-badge&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Wireshark-1F6FEB?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/VirusTotal-1F6FEB?style=for-the-badge&logoColor=white" alt="VirusTotal" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-1F6FEB?style=for-the-badge&logoColor=white" alt="MITRE ATT&amp;CK" />
+</p>
 
-`Wazuh` · `Wireshark` · `VirusTotal` · `MITRE ATT&CK`
+**Web & Network Penetration Testing**
 
-**🔴 Web & Network Penetration Testing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp%20Suite-DA3633?style=for-the-badge&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-DA3633?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Nmap-DA3633?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Netcat-DA3633?style=for-the-badge&logoColor=white" alt="Netcat" />
+</p>
 
-`Burp Suite` · `OWASP ZAP` · `Nmap`  · `Netcat`
+**Active Directory Security**
 
-**🟣 Active Directory Security**
+<p align="left">
+  <img src="https://img.shields.io/badge/BloodHound-8957E5?style=for-the-badge&logoColor=white" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/PowerView-8957E5?style=for-the-badge&logoColor=white" alt="PowerView" />
+  <img src="https://img.shields.io/badge/Kerberos-8957E5?style=for-the-badge&logoColor=white" alt="Kerberos" />
+</p>
 
-`BloodHound` · `PowerView` · `Kerberos`
+**OT/ICS Security**
 
-### 🟠 OT/ICS Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Modbus%20TCP-DB6D28?style=for-the-badge&logoColor=white" alt="Modbus TCP" />
+  <img src="https://img.shields.io/badge/DNP3-DB6D28?style=for-the-badge&logoColor=white" alt="DNP3" />
+  <img src="https://img.shields.io/badge/S7comm-DB6D28?style=for-the-badge&logoColor=white" alt="S7comm" />
+  <img src="https://img.shields.io/badge/Wireshark-DB6D28?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-DB6D28?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/PLC%2FSCADA%20Security-DB6D28?style=for-the-badge&logoColor=white" alt="PLC/SCADA Security" />
+</p>
 
-`Modbus TCP` · `DNP3` · `S7comm` · `Wireshark` · `Nmap` · `PLC/SCADA Security`
-
-**🖥️ Operating Systems**
-
-`Kali Linux` · `Ubuntu` · `Debian` · `Windows`
-
-**⚙️ Scripting & Automation**
-
-`Python` · `Bash` · `Git`
-
-
-**⚙️ Security Automation**
+**Scripting & Security Automation**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -93,25 +104,27 @@ Security Foundations
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Python & Bash** — security automation · log processing · reconnaissance tooling · investigation utilities
+<sub>Security automation · log processing · reconnaissance tooling · investigation utilities</sub>
 
-### 📚 What I'm Building
+---
+
+### What I'm Building
 
 This profile documents my progression through practical cybersecurity work.
 
-- 🔵 **SOC Labs** — monitoring, alert triage, log analysis and incident investigation
-- 🟢 **Threat Hunting Labs** — ATT&CK-driven hunts, IOC analysis and adversary behavior
-- 🔴 **Penetration Testing Labs** — reconnaissance, enumeration, exploitation and reporting
-- 🟣 **Digital Forensics** — evidence analysis, artifact investigation and incident reconstruction
-- ⚙️ **Security Automation** — Python and Bash tooling for investigation and security testing
+- **SOC Labs** — monitoring, alert triage, log analysis and incident investigation
+- **Threat Hunting Labs** — ATT&CK-driven hunts, IOC analysis and adversary behavior
+- **Penetration Testing Labs** — reconnaissance, enumeration, exploitation and reporting
+- **Digital Forensics** — evidence analysis, artifact investigation and incident reconstruction
+- **Security Automation** — Python and Bash tooling for investigation and security testing
 
 ---
 
 ### Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eugen-nyongesa-47aa8221a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg050hruHTYeJo1C4waxQrw%3D%3D" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/@captainx_dcode" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/eugen-nyongesa-47aa8221a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/captainx_dcode" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/captain_xtrim" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:nyongesajunior2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -137,14 +150,18 @@ This profile documents my progression through practical cybersecurity work.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=captainx-dcode&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Don't miss this
+---
+
+### Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Threat hunting: because sometimes ‘nothing happened’ is the most suspicious answer." />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&duration=4000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&random=true&width=820&height=130&lines=%22I+don't+break+systems.+I+just+ask+them+questions+they+weren't+prepared+to+answer.%22+%E2%80%94+Eugen+Nyongesa;%22If+the+alert+is+suspicious,+investigate+it.+If+the+system+is+vulnerable,+test+it.+If+it's+patched,+find+another+way.%22;%22I+came+for+the+code.+Stayed+for+the+vulnerabilities.%22;%22Threat+hunting:+because+sometimes+'nothing+happened'+is+the+most+suspicious+answer.%22;%22Pentesting+is+just+QA,+but+with+better+permissions.%22;%22My+favorite+kind+of+bug+is+the+one+that+gives+me+shell+access.%22;%22I+trust+logs+more+than+I+trust+my+memory.%22;%22404:+Vulnerability+not+found.+Give+me+five+minutes.%22;%22Some+people+debug+code.+I+debug+attackers.%22;%22The+system+said+it+was+secure.+Naturally,+I+had+questions.%22" alt="Quote" /></a>
 </p>
+
+<p align="center"><sub>Quotes cycle in random order. To change or add one, edit the <code>lines</code> value in the URL above — <a href="https://github.com/DenverCoder1/readme-typing-svg">tool docs</a>.</sub></p>
 
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/captainx-dcode">captainx-dcode</a></i>
+  <sub>From <a href="https://github.com/captainx-dcode">captainx-dcode</a></sub>
 </p>
